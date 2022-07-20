@@ -10,7 +10,7 @@ https://docs.fivem.net/docs/server-manual/setting-up-a-server/
 Your Steam Web API Key
 Key: 49A18B62396BF37F2BA647B168D292E4
 
-cfxk_J2UiWtiPpecoRqMQwtsE_38VQC0
+cfxk_1s157rkLDQI4r7YJnhobz_GyFcX
 
 steam:11000013932f8e6
 <!---
